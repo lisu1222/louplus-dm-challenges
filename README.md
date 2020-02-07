@@ -1,6 +1,7 @@
 # Louplus-Data Mining-Challenges
-
+---
 week1: Data Importing
+---
 week2: Data Preprocessing and Visulization
 - Challenge 3: US Earthquake Dataset
     1.Data Discretization 
@@ -18,5 +19,7 @@ week2: Data Preprocessing and Visulization
     2.Deal with NaN  
     3.Specify Xticks and Positions  
     4.Matplotlib
+    
+
     
 week3: Data Modeling 
