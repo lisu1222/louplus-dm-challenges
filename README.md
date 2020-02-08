@@ -1,1 +1,4 @@
-# louplus-dm-challenges
+# LOUPLUS Data Mining Camp Challenges
+
+
+
