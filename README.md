@@ -1,9 +1,4 @@
 
-# LOUPLUS Data Mining Camp Challenges
-
-
-
-=======
 # Louplus-Data Mining-Challenges
 
 week1: Data Importing
