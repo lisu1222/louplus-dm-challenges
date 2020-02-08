@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # LOUPLUS Data Mining Camp Challenges
 
 
@@ -31,4 +31,4 @@ week2: Data Preprocessing and Visulization
     
 week3: Data Modeling 
 ---
->>>>>>> c61ab3b18642e8347859d1cc082b7d35a58cf049
+
