@@ -12,7 +12,7 @@ def caculate_w():
     y = np.matrix(mb.reshape(len(mb), 1))
     
     W = (x.T * x).I * x.T * y
-    w = round(float(W[0]),2)
-    b = round(float(W[1]),2)
+    b = round(float(W[0]),2)
+    w = round(float(W[1]),2)
     
     return w, b
