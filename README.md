@@ -22,8 +22,16 @@ week2: Data Preprocessing and Visulization
     - 3.Specify Xticks and Positions  
     - 4.Matplotlib
     
-
     
 week3: Data Modeling 
 ---
+- Challenge 1: New York Bikes Regression Analysis
+    - 1. Data Import
+    - 2. Least Squares Regression
+- Challenge 2: 
+    - 1. Remove duplicates
+    - 2. Using Pearson-correlation coefficients to extract features for predicting
+    - 3. Polinomial features' transformation
+    - 4. Model evaluation
+
 
