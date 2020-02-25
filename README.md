@@ -1,9 +1,13 @@
 
 # Louplus-Data Mining-Challenges
 
-week1: Data Importing
+This repository include practices for the challenges of a 5-week online Data Mining courses
+[Lou + Data Mining](https://www.shiyanlou.com/courses/1464)
+
+
+### week1: Data Importing
 ---
-week2: Data Preprocessing and Visulization
+### week2: Data Preprocessing and Visulization
 ---
 - Challenge 3: US Earthquake Dataset
     - 1.Data Discretization 
@@ -23,7 +27,7 @@ week2: Data Preprocessing and Visulization
     - 4.Matplotlib
     
     
-week3: Data Modeling 
+### week3: Data Modeling 
 ---
 - Challenge 1: New York Bikes Regression Analysis
     - 1. Data Import
